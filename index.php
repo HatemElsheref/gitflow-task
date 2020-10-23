@@ -1,3 +1,3 @@
 <?php
 
-echo 'Hatem Mohamed 2 101';
+echo 'Hi SSH';
